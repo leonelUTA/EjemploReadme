@@ -3,7 +3,9 @@
 ### Tabla de contenidos
 ### Resumen
 ### Problema-Solución
-### Implementación 
+### Implementación
+  ####Tecnologías 
+  ##### Todo el contenido técnico del proyecto.
 ### Conclusiones y trabajo a futuro
 ### Referencias
 ### Contacto
